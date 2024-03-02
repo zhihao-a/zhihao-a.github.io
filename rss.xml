@@ -10,8 +10,23 @@
         </author>
         <description></description>
         <language>zh-CN</language>
-        <pubDate>Sun, 17 Dec 2023 21:49:12 +0800</pubDate>
-        <lastBuildDate>Sun, 17 Dec 2023 21:49:12 +0800</lastBuildDate>
+        <pubDate>Sat, 02 Mar 2024 17:04:29 +0800</pubDate>
+        <lastBuildDate>Sat, 02 Mar 2024 17:04:29 +0800</lastBuildDate>
+        <item>
+            <guid isPermalink="true">https://zhihao-a.github.io/2024/03/02/Representations/</guid>
+            <title>Representations</title>
+            <link>https://zhihao-a.github.io/2024/03/02/Representations/</link>
+            <pubDate>Sat, 02 Mar 2024 17:04:29 +0800</pubDate>
+            <description><![CDATA[  ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://zhihao-a.github.io/2024/03/02/Open%E2%80%91set%20learning%20under%C2%A0covariate%20shift/</guid>
+            <title>Open‑set learning under covariate shift</title>
+            <link>https://zhihao-a.github.io/2024/03/02/Open%E2%80%91set%20learning%20under%C2%A0covariate%20shift/</link>
+            <category term="文献" scheme="https://zhihao-a.github.io/tags/%E6%96%87%E7%8C%AE/" />
+            <pubDate>Sat, 02 Mar 2024 17:01:27 +0800</pubDate>
+            <description><![CDATA[  ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">https://zhihao-a.github.io/2023/12/17/javaWeb%E5%85%A8%E6%A0%88/</guid>
             <title>javaWeb全栈</title>

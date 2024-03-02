@@ -7,6 +7,24 @@
     "home_page_url": "https://zhihao-a.github.io",
     "items": [
         {
+            "id": "https://zhihao-a.github.io/2024/03/02/Representations/",
+            "url": "https://zhihao-a.github.io/2024/03/02/Representations/",
+            "title": "Representations",
+            "date_published": "2024-03-02T09:04:29.000Z",
+            "content_html": "",
+            "tags": []
+        },
+        {
+            "id": "https://zhihao-a.github.io/2024/03/02/Open%E2%80%91set%20learning%20under%C2%A0covariate%20shift/",
+            "url": "https://zhihao-a.github.io/2024/03/02/Open%E2%80%91set%20learning%20under%C2%A0covariate%20shift/",
+            "title": "Open‑set learning under covariate shift",
+            "date_published": "2024-03-02T09:01:27.000Z",
+            "content_html": "",
+            "tags": [
+                "文献"
+            ]
+        },
+        {
             "id": "https://zhihao-a.github.io/2023/12/17/javaWeb%E5%85%A8%E6%A0%88/",
             "url": "https://zhihao-a.github.io/2023/12/17/javaWeb%E5%85%A8%E6%A0%88/",
             "title": "javaWeb全栈",
