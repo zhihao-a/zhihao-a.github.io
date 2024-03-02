@@ -7,21 +7,23 @@
     "home_page_url": "https://zhihao-a.github.io",
     "items": [
         {
-            "id": "https://zhihao-a.github.io/2024/03/02/Representations/",
-            "url": "https://zhihao-a.github.io/2024/03/02/Representations/",
-            "title": "Representations",
-            "date_published": "2024-03-02T09:04:29.000Z",
-            "content_html": "",
-            "tags": []
-        },
-        {
-            "id": "https://zhihao-a.github.io/2024/03/02/Open%E2%80%91set%20learning%20under%C2%A0covariate%20shift/",
-            "url": "https://zhihao-a.github.io/2024/03/02/Open%E2%80%91set%20learning%20under%C2%A0covariate%20shift/",
-            "title": "Open‑set learning under covariate shift",
-            "date_published": "2024-03-02T09:01:27.000Z",
+            "id": "https://zhihao-a.github.io/2024/03/02/Domain-adversarial-neural-networks-for-domain-generalizationwhen-it-works-and-how-to-improve/",
+            "url": "https://zhihao-a.github.io/2024/03/02/Domain-adversarial-neural-networks-for-domain-generalizationwhen-it-works-and-how-to-improve/",
+            "title": "Domain adversarial neural networks for domain generalizationwhen it works and how to improve",
+            "date_published": "2024-03-02T09:11:08.000Z",
             "content_html": "",
             "tags": [
-                "文献"
+                "文献笔记"
+            ]
+        },
+        {
+            "id": "https://zhihao-a.github.io/2024/03/02/Domain-Agnostic-Learning-with-Disentangled-Representations/",
+            "url": "https://zhihao-a.github.io/2024/03/02/Domain-Agnostic-Learning-with-Disentangled-Representations/",
+            "title": "Domain Agnostic Learning with Disentangled Representations",
+            "date_published": "2024-03-02T09:09:05.000Z",
+            "content_html": "",
+            "tags": [
+                "文献笔记"
             ]
         },
         {
